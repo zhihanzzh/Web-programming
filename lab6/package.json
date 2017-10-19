@@ -1,0 +1,14 @@
+{
+  "name": "cs-546-lab-6",
+  "version": "1.0.0",
+  "description": "lab6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Han",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

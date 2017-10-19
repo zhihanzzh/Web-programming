@@ -1,0 +1,1 @@
+const postRoutes = require("./posts");
